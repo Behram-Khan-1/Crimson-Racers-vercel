@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Bikes_And_Tracks Full waypoints 1.unity
+    guid: 1b68224ee3e310c4aa87ddcfb9ed73cf
   m_configObjects: {}
